@@ -4,3 +4,9 @@ pool:
 stages:
 - stage: 'Prepare'
   displayName: 'Prepare'
+  
+jobs:
+- job: A
+
+steps:
+- bash: echo "A"
