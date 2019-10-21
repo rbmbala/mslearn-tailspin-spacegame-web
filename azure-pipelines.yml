@@ -4,6 +4,3 @@ pool:
 stages:
 - stage: 'Prepare'
   displayName: 'Prepare'
-  
-jobs:
-- job: A
